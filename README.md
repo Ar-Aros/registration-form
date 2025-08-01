@@ -1,10 +1,11 @@
-This is a Simple registration form made with HTML & CSS.
+# This is a Simple registration form made with HTML & CSS.
 # Features
-- Form with multiple text input.
+- Form with multiple text inputs.
 - password input
-- radio input to select gender
-- cancel button to reset the input
-- gradiant submit button
+- Radio input to select gender
+- a cancel button to reset the input
+- Gradient submit button
 
 # Web Page Look
-<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/258101f5-4d99-49ad-9a8d-aedf01c14e5b" />
+
+![Screenshot_1-8-2025_121720_127 0 0 1](https://github.com/user-attachments/assets/c54de9a0-fb65-44dc-88db-03c8523cfe3f)
